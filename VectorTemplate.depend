@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558551670 source:c:\users\pc\documents\github\vectortemplate\main.cpp
+	<iostream>
+
+1558545743 source:c:\users\pc\documents\github\vectortemplate\src\vectortemplate.cpp
+	"VectorTemplate.h"
+
+1558382255 c:\users\pc\documents\github\vectortemplate\include\vectortemplate.h
+
